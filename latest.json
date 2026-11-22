@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "project": "TW_REG_MAKERS_V1",
-  "version": "2.0.2",
-  "tag": "v2.0.2",
-  "publishedAt": "2026-11-22T15:46:30Z",
+  "version": "2.0.1",
+  "tag": "v2.0.1",
+  "publishedAt": "2026-11-22T15:50:00+08:00",
   "releaseUrl": "https://cdn.jsdelivr.net/gh/Akilaea/edgeone-twreg-release@3af972165d5e1b183167b23580645f3706c6ecdf/TW_REG_MAKERS_V1_v2.0.1.zip",
   "releaseSha256": "310fd6e3ae3baf019761d1a9618a817a52b081c5188708a4cfc6f76bfbdaef7d",
   "releaseSize": 139632,
   "projectUrl": "https://cdn.jsdelivr.net/gh/Akilaea/edgeone-twreg-release@3af972165d5e1b183167b23580645f3706c6ecdf/project.zip",
   "projectSha256": "6a8b1d87204a4bc972107846a88989e206b0131a38bd8b4b81a22a9a49e09e9c",
   "projectSize": 138044,
-  "notes": "空版本：仅递增版本号，用于验证自动更新与端点重部署；包内容与 2.0.1 完全一致。"
+  "notes": "修复 ruyijs 5025：Firefox 159 指纹、ruyijs 0.4.3、countryCode auto。"
 }
