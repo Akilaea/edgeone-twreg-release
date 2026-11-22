@@ -1,0 +1,16 @@
+{
+  "project": "TW_REG_MAKERS_V1",
+  "latest": "2.0.1",
+  "releases": [
+    {
+      "version": "2.0.1",
+      "tag": "v2.0.1",
+      "date": "2026-11-22",
+      "releaseUrl": "https://github.com/Akilaea/edgeone-twreg-release/releases/download/v2.0.1/TW_REG_MAKERS_V1_v2.0.1.zip",
+      "releaseSha256": "310fd6e3ae3baf019761d1a9618a817a52b081c5188708a4cfc6f76bfbdaef7d",
+      "projectUrl": "https://github.com/Akilaea/edgeone-twreg-release/releases/download/v2.0.1/project.zip",
+      "projectSha256": "6a8b1d87204a4bc972107846a88989e206b0131a38bd8b4b81a22a9a49e09e9c",
+      "notes": "修复 ruyijs 5025：Firefox 159 指纹、ruyijs 0.4.3、countryCode auto。"
+    }
+  ]
+}
