@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "project": "TW_REG_MAKERS_V1",
-  "version": "2.0.1",
-  "tag": "v2.0.1",
-  "publishedAt": "2026-11-22T15:50:00+08:00",
-  "releaseUrl": "https://cdn.jsdelivr.net/gh/Akilaea/edgeone-twreg-release@3af972165d5e1b183167b23580645f3706c6ecdf/TW_REG_MAKERS_V1_v2.0.1.zip",
-  "releaseSha256": "310fd6e3ae3baf019761d1a9618a817a52b081c5188708a4cfc6f76bfbdaef7d",
-  "releaseSize": 139632,
-  "projectUrl": "https://cdn.jsdelivr.net/gh/Akilaea/edgeone-twreg-release@3af972165d5e1b183167b23580645f3706c6ecdf/project.zip",
-  "projectSha256": "6a8b1d87204a4bc972107846a88989e206b0131a38bd8b4b81a22a9a49e09e9c",
-  "projectSize": 138044,
-  "notes": "修复 ruyijs 5025：Firefox 159 指纹、ruyijs 0.4.3、countryCode auto。"
+  "version": "2.0.2",
+  "tag": "v2.0.2",
+  "publishedAt": "2026-11-24T15:20:00+08:00",
+  "releaseUrl": "https://cdn.jsdelivr.net/gh/xbox-cn/edgeone-twreg-release@2926c0260819cc8c53ea7e4361862a56eccf0caa/TW_REG_MAKERS_V1_v2.0.2.zip",
+  "releaseSha256": "6387f9e7d1683ec7d225a710b41ef4d24f89f4d4e0186611d17296b2da00fb65",
+  "releaseSize": 141185,
+  "projectUrl": "https://cdn.jsdelivr.net/gh/xbox-cn/edgeone-twreg-release@2926c0260819cc8c53ea7e4361862a56eccf0caa/project.zip",
+  "projectSha256": "7af339a034b18d9d0c76b4b408a44e055ef5887c9b4afbecdef9633b3504151e",
+  "projectSize": 138929,
+  "notes": "v2.0.2：/reg 新增 continuous 参数，在沙箱内部后台循环批次，启动请求立即返回。"
 }
