@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "project": "TW_REG_MAKERS_V1",
-  "version": "2.0.2",
-  "tag": "v2.0.2",
-  "publishedAt": "2026-11-24T15:20:00+08:00",
-  "releaseUrl": "https://cdn.jsdelivr.net/gh/xbox-cn/edgeone-twreg-release@2926c0260819cc8c53ea7e4361862a56eccf0caa/TW_REG_MAKERS_V1_v2.0.2.zip",
-  "releaseSha256": "6387f9e7d1683ec7d225a710b41ef4d24f89f4d4e0186611d17296b2da00fb65",
-  "releaseSize": 141185,
-  "projectUrl": "https://cdn.jsdelivr.net/gh/xbox-cn/edgeone-twreg-release@2926c0260819cc8c53ea7e4361862a56eccf0caa/project.zip",
-  "projectSha256": "7af339a034b18d9d0c76b4b408a44e055ef5887c9b4afbecdef9633b3504151e",
-  "projectSize": 138929,
-  "notes": "v2.0.2：/reg 新增 continuous 参数，在沙箱内部后台循环批次，启动请求立即返回。"
+  "version": "2.2.0",
+  "tag": "v2.2.0",
+  "publishedAt": "2026-11-24T17:18:26+08:00",
+  "releaseUrl": "https://cdn.jsdelivr.net/gh/xbox-cn/edgeone-twreg-release@18004ff22ac8ccd45a0476bf24bed147244b6b5e/TW_REG_MAKERS_V1_v2.2.0.zip",
+  "releaseSha256": "c8d24b9f9d55e06d0503b2150fd58d1e908508258d3d86a4611a84f03b5f4910",
+  "releaseSize": 174043,
+  "projectUrl": "https://cdn.jsdelivr.net/gh/xbox-cn/edgeone-twreg-release@18004ff22ac8ccd45a0476bf24bed147244b6b5e/project.zip",
+  "projectSha256": "3bba57ec80148c49e92608293e5d32520125eba02941a6cf3591b7843830822a",
+  "projectSize": 172409,
+  "notes": "五线程持续注册直到容器结束；POST /batch rounds=0/seconds=0 启动，管理器发起后无需后续请求。"
 }
